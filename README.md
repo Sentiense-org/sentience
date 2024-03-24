@@ -6,7 +6,7 @@ A Human centric AI advancement initiative.
 
 # Important Annoucments
 
-Open source Subsidiary org initiated in March 2024
+Open source Subsidiary org initiated in March 2024 -> https://github.com/desentiense-org
 
 Launch of sentiense in May 2022 to advance AI tech -> https://sentiense.in | https://github.com/sentiense
 
